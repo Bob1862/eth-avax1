@@ -65,7 +65,7 @@ Use getWinningProposal to view the index of the winning proposal.
 ### End Voting:
 The chairperson can invoke endVoting after the voting period has ended to lock in the results.
 ## Authors
-Metacrafter Chris
+Metacrafter 
 @ASHWANI SINGH @ash995656@gmail.com
 
 ### License
